@@ -1,2 +1,2 @@
 # code_staff
-any one can contribute
+anyone can contribute
